@@ -57,6 +57,12 @@
     .testimonialCard {
         margin-top:2em;
         z-index: 1;
+        max-width:80%;
+    }
+
+        .testimonialCardRow {
+
+            display: block !important;
     }
 
 
