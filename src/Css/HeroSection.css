@@ -5,6 +5,10 @@
     color:white;
     margin: auto;
 }
+.heroSectionContainer img {
+    height: 100%;
+    width: 35%;
+}
 
 .heroText {
     background-image: url("../images/bg-curvy-desktop.svg");
